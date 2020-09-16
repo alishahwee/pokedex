@@ -53,6 +53,7 @@
 		CD098B2925107B4400A9B6DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD098B3525107F4E00A9B6DA /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		CD098B372510853100A9B6DA /* PokemonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewController.swift; sourceTree = "<group>"; };
+		CD9E46F82511E889001D7E50 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		CD098AF925107B3E00A9B6DA = {
 			isa = PBXGroup;
 			children = (
+				CD9E46F82511E889001D7E50 /* README.md */,
 				CD098B0425107B3E00A9B6DA /* Pokedex */,
 				CD098B1B25107B4400A9B6DA /* PokedexTests */,
 				CD098B2625107B4400A9B6DA /* PokedexUITests */,
